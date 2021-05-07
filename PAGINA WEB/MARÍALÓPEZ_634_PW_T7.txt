@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<head>
+<meta charset="UTF.8">
+<title>VIDEOJUEGOS MAS POPULARES DEL 2020 Y 2021</title>
+<link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+<body>
+
+<ul class= "menu">
+<li><a href="#">Inicio</a></Li><li>
+<li><a href="paginas/resumenes.html">Resumenes</a></Li><li>
+<li><a href="paginas/contactos.html">Contactos</a></Li><li>
+<li><a href="paginas/foro.html">Foros</a></Li><li>
+<li><a href="paginas/recomendaciones.html">Recomendaciones</a></Li><li>
+</ul>
+</body>
+
+<body background="fondoo.jpg" bgcolor="#d2f2f7" text="white">
+<center><img src="ultra.Png"></center>
+
+
+
+<p><center><h2>¡Bienvenido a este divertido e interesante lugar!</p></h2></center>
+<p><center><h3>En este lugar encontrarás los 10 videojuegos más buscados y solicitados en el año 2020 y parte de este 2021.</p></h3></center> 
+<p><center><h4>Si te interesa conocer qué videojuegos están de moda, o en las primeras listas de popularidad, quédate hasta el final</p></h4></center>
+ 
+
+<center><img src="menu/battle.png"width=150> 
+<img src="menu/moba.png"width=150>
+<img src="menu/popular.png"width=150>
+<img src="menu/tendencia.png"width=150> </center>
+<center><img src="primerfoto.jpg"></center>
+
+
+<p>><center><h2> <font color="black" face="verdana">¿SABES QUENES LIDERAN ESTOS PUESTOS? ¡AQUÍ LO DESCUBRIRÁS!</font></p></h2></center>
+
+</body>

@@ -1,0 +1,38 @@
+
+<!DOCTYPE HTML>
+ <head>
+  <title>PAGINA WEB VG</title>
+   <title> 
+ <meta name="description" content="Descripción…">
+  </head>
+  <style type "text/css"> 
+    header
+    (  backgroud-color: #PPP:
+       color: #333:
+     )
+     </atyle>
+ </head>
+  <body>
+<div id"encabezado></div>
+</body>
+</html>
+<style type "text/css"> 
+    header
+    (  backgroud-color: #333:
+       color: #PPP:
+     )
+     </atyle>
+ <body>
+  <div class="barra-lateral">
+    <h3>Título…</h3>
+    <p>Texto</p>
+  </div>
+  <div class="contenido">
+  <div class="tema">
+    <h1>subtitulo…</h1>
+    <p>texto</p>
+    <p>texto… </p>
+  </div>
+</body>
+
+  

@@ -1,0 +1,5 @@
+<center><img src="menu/battle.png"width=150> 
+<img src="menu/moba.png"width=150>
+<img src="menu/popular.png"width=150>
+<img src="menu/tendencia.png"width=150> </center>
+<center><img src="primerfoto.jpg"></center>
